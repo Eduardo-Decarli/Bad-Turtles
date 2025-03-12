@@ -2,7 +2,7 @@
 
 importer="wav"
 type="AudioStreamWAV"
-uid="uid://bc1dplq06yrpj"
+uid="uid://dxwhjicxjv306"
 path="res://.godot/imported/kill_turtle.wav-a25e0ada51a18067dd3bfcc028c37588.sample"
 
 [deps]
@@ -21,4 +21,4 @@ edit/normalize=false
 edit/loop_mode=0
 edit/loop_begin=0
 edit/loop_end=-1
-compress/mode=2
+compress/mode=0
